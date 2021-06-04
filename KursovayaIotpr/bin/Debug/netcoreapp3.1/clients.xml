@@ -1,0 +1,11 @@
+<?xml version="1.0"?>
+<ArrayOfClient xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+  <Client>
+    <ClientName>pepsico</ClientName>
+    <ContactName>Belov A.V.</ContactName>
+    <Segment>products</Segment>
+    <Adres>Izhevsk</Adres>
+    <Status>very important</Status>
+    <ContactNumber>79564567396</ContactNumber>
+  </Client>
+</ArrayOfClient>

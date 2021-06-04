@@ -1,0 +1,13 @@
+C:\Users\Defind\source\repos\KursovayaIotpr\KursovayaIotpr\bin\Debug\netcoreapp3.1\KursovayaIotpr.exe
+C:\Users\Defind\source\repos\KursovayaIotpr\KursovayaIotpr\bin\Debug\netcoreapp3.1\KursovayaIotpr.deps.json
+C:\Users\Defind\source\repos\KursovayaIotpr\KursovayaIotpr\bin\Debug\netcoreapp3.1\KursovayaIotpr.runtimeconfig.json
+C:\Users\Defind\source\repos\KursovayaIotpr\KursovayaIotpr\bin\Debug\netcoreapp3.1\KursovayaIotpr.runtimeconfig.dev.json
+C:\Users\Defind\source\repos\KursovayaIotpr\KursovayaIotpr\bin\Debug\netcoreapp3.1\KursovayaIotpr.dll
+C:\Users\Defind\source\repos\KursovayaIotpr\KursovayaIotpr\bin\Debug\netcoreapp3.1\KursovayaIotpr.pdb
+C:\Users\Defind\source\repos\KursovayaIotpr\KursovayaIotpr\obj\Debug\netcoreapp3.1\KursovayaIotpr.csprojAssemblyReference.cache
+C:\Users\Defind\source\repos\KursovayaIotpr\KursovayaIotpr\obj\Debug\netcoreapp3.1\KursovayaIotpr.AssemblyInfoInputs.cache
+C:\Users\Defind\source\repos\KursovayaIotpr\KursovayaIotpr\obj\Debug\netcoreapp3.1\KursovayaIotpr.AssemblyInfo.cs
+C:\Users\Defind\source\repos\KursovayaIotpr\KursovayaIotpr\obj\Debug\netcoreapp3.1\KursovayaIotpr.csproj.CoreCompileInputs.cache
+C:\Users\Defind\source\repos\KursovayaIotpr\KursovayaIotpr\obj\Debug\netcoreapp3.1\KursovayaIotpr.dll
+C:\Users\Defind\source\repos\KursovayaIotpr\KursovayaIotpr\obj\Debug\netcoreapp3.1\KursovayaIotpr.pdb
+C:\Users\Defind\source\repos\KursovayaIotpr\KursovayaIotpr\obj\Debug\netcoreapp3.1\KursovayaIotpr.genruntimeconfig.cache
